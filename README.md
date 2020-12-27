@@ -1,4 +1,4 @@
-[![Discord Bots](https://top.gg/api/widget/status/660891282465357834.svg)](https://top.gg/bot/660891282465357834)  <a target="_blank" href="https://neotuxbot.tk">
+[![Discord Bots](https://top.gg/api/widget/status/660891282465357834.svg)](https://discord.com/oauth2/authorize?client_id=660891282465357834&scope=bot&permissions=1178070385)  <a target="_blank" href="https://neotuxbot.tk">
     <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline%20%E2%9D%8C&logo=google&logoColor=white&up_message=Online%20%E2%9C%94&url=https%3A%2F%2Fneotuxbot.tk">
 </a>
 
