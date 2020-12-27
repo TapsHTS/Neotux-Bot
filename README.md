@@ -5,8 +5,6 @@
 # [Neotux'Bot](https://discord.com/oauth2/authorize?client_id=660891282465357834&scope=bot&permissions=1178070385).
 A complete and simple discordbot. Using the module ytdl-core.
 
-Looking for a code for a music bot ? This fully open source code is made for your project !
-
 If you need help go [here](https://discord.gg/Qk2FUDazVa) or open an issue !
 
 ### ➕ Installation
